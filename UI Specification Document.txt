@@ -1,0 +1,10 @@
+Pages: 
+-UserAddPage
+     -leftHeader (button, creates new user)
+     -Hide Disabled User (checkbox, when it is checked it hides disabled users)
+     -UserTable
+          -ID (When clicked, it changes sorting of ID and sorts users)
+          -UserName (When clicked, it changes sorting of UserName and sorts users regarding to UserName)
+          -Email (When clicked, it changes sorting of UserName and sorts users regarding to email)
+          -Enabled (When clicked, it changes sorting of UserName and sorts users regarding to enabled.)
+     -NewUser Part(User can create new user by giving necessary credentials.) 
